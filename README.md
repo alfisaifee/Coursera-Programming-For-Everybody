@@ -1,5 +1,5 @@
 # Coursera-Python-For-Everybody
-This Specialization builds on the success of the Python for Everybody course and introduces fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. 
+This Specialization introduces fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. 
 
 There are 5 courses in this specialization:
 
